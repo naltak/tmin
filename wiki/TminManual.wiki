@@ -1,7 +1,7 @@
 #labels Featured
 =Summary=
 
-<font color=crimson size=+1>*** NOTE: This project has moved to <a href='http://lcamtuf.coredump.cx/afl/'>http://lcamtuf.coredump.cx/afl/</a> - please update your links. ***</font>
+<font color=crimson size=+1>*** NOTE: This project is obsolete and replaced by the <i>afl-tmin</i> tool bundled with <a href='http://lcamtuf.coredump.cx/afl/'>american fuzzy lop</a>. ***</font>
 
 _Tmin_ is a simple utility meant to make it easy to narrow down complex test cases produced through fuzzing. It is closely related to another tool of this type, [http://delta.tigris.org delta], but meant specifically for unknown, underspecified, or hard to parse data formats (without the need to tokenize and re-serialize data), and for easy integration with external UI automation harnesses.
 
